@@ -1,0 +1,21 @@
+### Python needs Frameworks, Flask and Django 
+
+# Difference between flask and Django 
+
+# Application of Django
+
+# Application of Flask 
+
+###
+
+### Python ###
+
+# Datatypes [list, tuples, dictionary, set and string]
+
+# To define empty sdet 
+        - a = set()
+
+# Dictionary - key value pair
+
+# string immutable in python 
+    - append, insert, extend
