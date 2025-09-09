@@ -1,0 +1,4 @@
+# Args  - It is a non keyword argument.
+        - You pass variable number of positional argument in functions
+
+# ** kwargs   - The function, kwargs will be a dictionary containing all the arguments
