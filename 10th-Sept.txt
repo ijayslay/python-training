@@ -1,0 +1,7 @@
+# What is decorator?
+- Decorator is a function that takes another function as input and add extra functionality to without changing original code.
+- 
+- Why use decorator? 
+- for code reusability and common functionality keep original function clean
+
+# What is generator?
